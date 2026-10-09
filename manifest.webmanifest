@@ -1,0 +1,10 @@
+{
+  "name": "Real world RPG",
+  "short_name": "RPG",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100c08",
+  "theme_color": "#140e09",
+  "lang": "el"
+}
