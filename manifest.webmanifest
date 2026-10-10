@@ -1,10 +1,16 @@
 {
   "name": "Real world RPG",
   "short_name": "RPG",
+  "id": "./",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#100c08",
   "theme_color": "#140e09",
-  "lang": "el"
+  "lang": "el",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
 }
